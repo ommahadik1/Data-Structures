@@ -1,4 +1,4 @@
-````markdown
+
 # 📚 Arrays in Data Structures using C
 
 ## ✅ What is an Array?
