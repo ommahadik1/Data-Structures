@@ -8,7 +8,7 @@ An array is a **collection of elements** stored at **contiguous memory locations
 ```c
 int arr[5] = {10, 20, 30, 40, 50};
 ```
-````
+
 
 ---
 
