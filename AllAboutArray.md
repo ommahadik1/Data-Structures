@@ -74,6 +74,3 @@ int main() {
 | Flexibility      | Low – Fixed size                    |
 | Traversal Method | Looping from index 0 to n-1         |
 
-```
-
-```
